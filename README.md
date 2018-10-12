@@ -1,4 +1,3 @@
 # Deep-Feature-Selection
 
-train a CNN for prediction
-perform feaure selection using occlusion
+train a CNN for prediction and perform feaure selection using occlusion
